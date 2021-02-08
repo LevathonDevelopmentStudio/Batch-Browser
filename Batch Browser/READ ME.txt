@@ -1,0 +1,15 @@
+---------------------------------------------------Thank you for installing Batch Browser 1.0!----------------------------------------------------------------------------
+Batch Browser is an Web Browser Made from Batch Coding.
+
+---------------------------------------------------Requirements:-------------------------------------------------------------------------------------------------------------
+MUST NEED FIREFOX!!
+EXPERENCE WITH cmd.exe!!!!!
+--------------------------------------------------Intructions:-----------------------------------------------------------------------------------------------------------------
+
+TO RUN:
+Double click on Batch Browser.bat
+
+
+
+TO CHANGE THE WEBSITE:
+Example: for Google.com, Type google WITH NO .COM AT THE END
